@@ -6,7 +6,7 @@
   ## Support For Easy Editing Of HTML Code
 
 ***
-   01.Title `code`
+   **01.Title `code`**
    ```html
     //Add Here Your Company Name
     <title>Home - SKMAX Studio Official</title>
