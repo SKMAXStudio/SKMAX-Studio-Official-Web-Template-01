@@ -10,6 +10,7 @@
    ```html
     //Add Here Your Company Name
     <title>Home - SKMAX Studio Official</title>
+Eg:
     <title>Home - Your Company Name Here</title>
    ```
    
