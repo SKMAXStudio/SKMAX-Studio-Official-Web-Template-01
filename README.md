@@ -9,37 +9,37 @@
    **01.Title `code`**
    ```html
     //Add Here Your Company Name
-    <title>Home - SKMAX Studio Official</title>
- Example:
     <title>Home - Your Company Name Here</title>
+ Example:
+    <title>Home - SKMAX Studio Official</title>
    ```
    
    **02.Nav Bar `code`**
    ```html
     //Add Here Your Company Name
-    <a class="navbar-brand" href="#page-top">SKMAX Studio Official</a>
- Example:
     <a class="navbar-brand" href="#page-top">Your Company Name Here</a>
+ Example:
+    <a class="navbar-brand" href="#page-top">SKMAX Studio Official</a>
    ```
    
    **03.Header `code`**
    ```html
-    //Any Topic You want
-    <div class="intro-lead-in"><span>Welcome To SKMAX Studio Official!</span></div>
+    //Any Topic You Want
+    <div class="intro-lead-in"><span>Any Topic You Want!</span></div>
  Example:
-    <div class="intro-lead-in"><span>Any Topic You want!</span></div>
+    <div class="intro-lead-in"><span>Welcome To SKMAX Studio Official!</span></div>
    ```
    
    ```html
-    //Any Topic You want
-    <div class="intro-heading text-uppercase"><span>It's Nice To Meet You</span></div>
+    //Any Topic You Want
+    <div class="intro-heading text-uppercase"><span>Any Topic You Want</span></div>
  Example:
-    <div class="intro-heading text-uppercase"><span>Any Topic You want</span></div>
+    <div class="intro-heading text-uppercase"><span>It's Nice To Meet You</span></div>
    ```
    
    ```html
     //Button
-   <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Tell mE more</a>
+   <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Any Topic</a>
  Example:
    <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Click Me</a>
    ```
