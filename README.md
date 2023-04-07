@@ -6,7 +6,10 @@
 ### [Telegram](https://t.me/SKMAX_Studio)             
 ![youtube100px](https://user-images.githubusercontent.com/118368174/230618685-141d8dab-a01f-43ee-8964-8d603b4e6f4d.png)
 ### [YouTube](https://www.youtube.com/@SKMAXStudio)
-
+![gmail100px](https://user-images.githubusercontent.com/118368174/230618694-9c9c1687-2505-45bb-8de9-0ee1a6657513.png)
+### Gmail - skmaxstudio@gmail.com
+![github100px](https://user-images.githubusercontent.com/118368174/230618690-350760c6-f379-433e-8018-ac420caf2e95.png)
+### [Git Hub](https://github.com/SKMAXStudio)
 ***
   ## Support For Easy Editing Of HTML Code
 
