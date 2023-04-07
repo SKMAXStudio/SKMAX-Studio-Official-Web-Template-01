@@ -51,7 +51,7 @@
    ```
    
    ```html
-    //Services Item
+    //Services Item (This Code For Only 1 Services Item)
     <div class="row text-center">
                 <div class="col-md-4"><span class="fa-stack fa-4x"><i class="fa fa-circle fa-stack-2x text-primary"></i><i class="fa fa-lock fa-stack-1x fa-inverse"></i></span>
                     <h4 class="section-heading">Web Security</h4>
@@ -59,7 +59,7 @@
                 </div>
             </div>
    ```
-   **05.Portfolio`code`**
+   **05.Portfolio `code`**
    ```html
     //Any Topic
     <h2 class="text-uppercase section-heading">Portfolio</h2>
@@ -71,7 +71,7 @@
    ```
    
    ```html
-    //
+    //Any Topic (This Code For Only 1 Portfolio)
     <div class="row">
              <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal6" data-bs-toggle="modal">
                         <div class="portfolio-hover">
