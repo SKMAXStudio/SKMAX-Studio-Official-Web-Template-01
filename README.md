@@ -85,7 +85,35 @@
                 </div>
             </div>
    ```
+   **06.About `code`**
    
+   ```html
+    //About Head
+    <div class="col-lg-12 text-center">
+                    <h2 class="text-uppercase">About</h2>
+                    <h3 class="text-muted section-subheading">Lorem ipsum dolor sit amet consectetur.</h3>
+                </div>
+   ```
+   
+   ```html
+   //About (This Code For Only 1 About)
+   <div class="row">
+                    <li class="list-group-item timeline-inverted">
+                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg"></div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>March 2011</h4>
+                                    <h4 class="subheading">An Agency is Born</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+  ```
 ***
 ## Home Page - Full ScreenShot
  ![Screenshot 2023-04-07 at 13-40-15 Home - SKMAX Studio Official](https://user-images.githubusercontent.com/118368174/230572379-09571b16-b7e8-46d6-8c2a-8303b4493814.png)
