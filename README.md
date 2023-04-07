@@ -2,7 +2,7 @@
 ***
 ## Powered By SKMAX Studio Official™
 
-![telegram-icon-6248](https://user-images.githubusercontent.com/118368174/230613588-4f214689-30be-4083-afdc-427a080e1bcf.png)
+![telegram-icon-6248-100px](https://user-images.githubusercontent.com/118368174/230615824-32d2cf65-f706-49e7-80e8-9db7c0fc392e.png)
 ### [Telegram](https://t.me/SKMAX_Studio)
 
 ***
