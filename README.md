@@ -112,6 +112,33 @@
                  </li>
          </div>
   ```
+  
+  **07.Footer**
+  ```html
+  //Footer Copyright Details
+  <div class="col-md-4"><span class="copyright" style="font-family: Aladin, serif;font-size: 20px;">Copyright&nbsp;© SKMAX Studio Official 2023</span></div>
+  ```
+  
+  ```html
+  //Social Media
+  <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-telegram"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-github"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+  ```
+  
+  ```html
+  //Privacy
+  <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+                        <li class="list-inline-item"><a href="#">Terms of Use</a></li>
+                    </ul>
+                </div>
+  ```
 ***
 ## Home Page - Full ScreenShot
  ![Screenshot 2023-04-07 at 13-40-15 Home - SKMAX Studio Official](https://user-images.githubusercontent.com/118368174/230572379-09571b16-b7e8-46d6-8c2a-8303b4493814.png)
