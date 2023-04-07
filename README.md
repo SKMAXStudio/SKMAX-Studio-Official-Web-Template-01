@@ -10,7 +10,7 @@
    ```html
     //Add Here Your Company Name
     <title>Home - SKMAX Studio Official</title>
-Eg:
+ Example:
     <title>Home - Your Company Name Here</title>
    ```
    
@@ -18,6 +18,7 @@ Eg:
    ```html
     //Add Here Your Company Name
     <a class="navbar-brand" href="#page-top">SKMAX Studio Official</a>
+ Example:
     <a class="navbar-brand" href="#page-top">Your Company Name Here</a>
    ```
    
@@ -25,18 +26,21 @@ Eg:
    ```html
     //Any Topic You want
     <div class="intro-lead-in"><span>Welcome To SKMAX Studio Official!</span></div>
+ Example:
     <div class="intro-lead-in"><span>Any Topic You want!</span></div>
    ```
    
    ```html
     //Any Topic You want
     <div class="intro-heading text-uppercase"><span>It's Nice To Meet You</span></div>
+ Example:
     <div class="intro-heading text-uppercase"><span>Any Topic You want</span></div>
    ```
    
    ```html
     //Button
    <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Tell mE more</a>
+ Example:
    <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Click Me</a>
    ```
 ***
